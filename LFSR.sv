@@ -1,3 +1,4 @@
+//RTL
 module LFSR(
   input logic clock,
   input logic resetn,
